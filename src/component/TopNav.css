@@ -1,0 +1,28 @@
+.topnav-main{
+    display: flex;
+    background: red;
+    padding: .6rem;
+}
+.left{
+color: aliceblue;
+font-weight: 900;
+
+
+}
+.right{
+   
+   margin-left: 900px;
+  
+}
+a{
+
+/* margin: 10px;
+color:wheat;
+text-decoration: none;
+float: right; */
+
+display: flex;
+margin-left: auto;
+order: 2;
+gap: 2rem;
+}
